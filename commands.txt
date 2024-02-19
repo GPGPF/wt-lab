@@ -1,0 +1,4 @@
+php -S localhost:3000
+
+//For pulling the repo
+Use git pull
